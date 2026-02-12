@@ -3,7 +3,7 @@
 
 ## 스크린샷
 
-!(images/01.png)
+![메인 설정](images/01.png)
 ![CVar 설정](images/02.png)
 ![특성창 스케일](images/03.png)
 ![파티 신청 알림](images/04.png)

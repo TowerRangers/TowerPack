@@ -41,7 +41,7 @@ AdvancedInterfaceOptions 또는 CVar 명령어로 강제로 변경한 값도 유
 
 기본 특성창 및 마법책 크기를 원하는 비율로 조정합니다.
 
-Talent Tree Tweaks 또는 BlizzMove에서도 조절이 가능하지만,
+Talent Tree Tweaks 또는 BlizzMove 에서도 조절이 가능하지만,
 
 불필요한 기능을 제외한 단순 스케일 조절용으로 제작되었습니다.
 

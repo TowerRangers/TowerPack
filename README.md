@@ -158,6 +158,8 @@ Talent Tree Tweaks 또는 BlizzMove 에서도 조절이 가능하지만,
 
 ElvUI + WindTools 에서는 해당 기능을 지원합니다.
 
+설정 가능 항목
+
 - 애니메이션 방식 변경
 - 지속시간 설정
 - Y축 위치 조절

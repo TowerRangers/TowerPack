@@ -1,7 +1,6 @@
 # Tower Pack
 
 위크오라에서 사용하던 편의 기능을 애드온으로 통합한 올인원 패키지<br/>
-사운드 변경기능 추가예정
 <br/><br/><br/>
 
 # 최신버전 다운로드
@@ -9,6 +8,21 @@
 [![Download](https://img.shields.io/badge/Download-Latest-green)](https://github.com/TowerRangers/TowerPack/releases/latest)
 <br/><br/>
 ## 📩 문의는 Issues를 이용해주세요
+<br/><br/>
+
+## 🐛 버그 수정
+
+- 증강 룬 사용 후에도 프레임이 남아있던 버그를 수정했습니다.
+<br/><br/>
+## ⚡ 업데이트 예정
+
+- 사운드를 목록화 하여 변경할 수 있는 기능
+<br/><br/>
+## 🧪 테스트중인 기능
+
+- ElvUi 프로필 공유기능
+- Platynator 프로필 공유기능
+- Details 프로필 공유기능
 <br/><br/>
 ## ✨ 주요 기능
 

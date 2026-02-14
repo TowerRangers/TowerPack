@@ -20,9 +20,9 @@
 <br/><br/>
 ## 🧪 테스트중인 기능
 
-- ElvUi 프로필 공유기능
-- Platynator 프로필 공유기능
-- Details 프로필 공유기능
+- ElvUi 프로필 공유
+- Platynator 프로필 공유
+- Details 프로필 공유
 <br/><br/>
 ## ✨ 주요 기능
 

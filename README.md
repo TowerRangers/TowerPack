@@ -151,7 +151,7 @@ Talent Tree Tweaks 또는 BlizzMove 에서도 조절이 가능하지만,
 
 전투 시작 종료 시 화면 중앙에 알림을 표시합니다.
 
-ElvUI + WindTools 에서는 해당 기능을 지원합니다.
+ElvUI + WindTools와 EllesmereUI 에서는 해당 기능을 지원합니다.
 
 [설정 가능 항목]
 
